@@ -1,0 +1,16 @@
+{
+  "name": "database-tools",
+  "version": "0.0.1",
+  "description": "tools to maintain mysql databases",
+  "main": "index.js",
+  "author": "Noah H. Smith",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "dependencies": {
+    "async": "~0.2.9",
+    "db-migrate": "~0.6.2",
+    "mysql": "~2.0.0-alpha9"
+  }
+}
