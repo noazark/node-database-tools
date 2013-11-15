@@ -1,6 +1,6 @@
 {
   "name": "database-tools",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "tools to maintain mysql databases",
   "main": "index.js",
   "author": "Noah H. Smith",
